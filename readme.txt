@@ -5,3 +5,4 @@ Git tracks changes.
 Git changes to test.
 Createing a new branch is quick	AND simple.
 Add merge test.
+Modify the file
